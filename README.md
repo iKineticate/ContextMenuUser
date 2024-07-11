@@ -17,7 +17,7 @@
 4.本例只提供了简单的思路和功能，根据思路也可个性化自定义需要的功能
 
 ## 例子
-![image](https://github.com/iKineticate/ContextMenuUser/blob/master/screenshots/image.png)
+![image](https://raw.githubusercontent.com/iKineticate/ContextMenuUser/main/screenshots/image.png)
 
 ### （1）图片转换
 转换为ico : [icogen](https://github.com/hamaluik/icogen)（手动将icogen.exe添加至环境变量）
